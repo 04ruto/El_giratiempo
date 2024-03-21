@@ -1,0 +1,22 @@
+/* header {
+    border: 1px solid red;
+}
+
+ul {
+    display: flex;
+    padding: 0;
+    gap: 20px;
+}
+
+ul img {
+    width: 4rem;
+    margin: 0 10%;
+}
+
+ul>li {
+    list-style: none;
+} */
+
+/* li:last-child {
+    margin-left: 100%;
+} */
